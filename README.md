@@ -1,4 +1,4 @@
-# Django ORM Web Application
+EX02 # Django ORM Web Application
 
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
@@ -24,7 +24,7 @@ Execute Django admin and create 10 employees
 ## PROGRAM
 
 ```
-model.py
+Models.py
 
 from django.db import models
 from django.contrib import admin
@@ -53,4 +53,4 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## RESULT
 
-Program executed Successfully.
+Thus the program for creating a database using ORM hass been executed successfully
