@@ -47,9 +47,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
-
-![OUTPUT](./Out.png)
-
+![Screenshot 2024-03-11 203829](https://github.com/HARISHA2006/harisha/assets/148843830/0d01c72d-3cbe-4574-955e-3c58c2e41c8c)
 
 ## RESULT
 
