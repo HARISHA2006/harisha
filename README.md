@@ -5,7 +5,8 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![Uploading WhatsApp Image 2024-03-11 at 21.55.12_439fb354.jpg…]()
+![WhatsApp Image 2024-03-11 at 21 55 12_ebe58e37](https://github.com/HARISHA2006/harisha/assets/148843830/637994f7-014b-4def-9fb6-29cda7f1bf04)
+
 
 
 ## DESIGN STEPS
